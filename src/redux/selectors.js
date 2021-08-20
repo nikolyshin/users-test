@@ -1,0 +1,1 @@
+export const genderFilter = state => state.filter.genderFilter
